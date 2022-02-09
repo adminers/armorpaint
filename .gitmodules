@@ -1,0 +1,15 @@
+
+
+[submodule "Libraries/iron"]
+	path = Libraries/iron
+	url = https://140.82.121.4/armory3d/iron
+[submodule "Libraries/zui"]
+	path = Libraries/zui
+	url = https://140.82.121.4/armory3d/zui
+[submodule "armorcore"]
+	path = armorcore
+	url = https://140.82.121.4/armory3d/armorcore
+	shallow = true
+[submodule "Libraries/armorbase"]
+	path = Libraries/armorbase
+	url = https://140.82.121.4/armory3d/armorbase
